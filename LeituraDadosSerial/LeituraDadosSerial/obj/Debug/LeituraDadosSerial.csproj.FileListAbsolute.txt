@@ -1,0 +1,6 @@
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\LeituraDadosSerial\LeituraDadosSerial\bin\Debug\LeituraDadosSerial.exe.config
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\LeituraDadosSerial\LeituraDadosSerial\bin\Debug\LeituraDadosSerial.exe
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\LeituraDadosSerial\LeituraDadosSerial\bin\Debug\LeituraDadosSerial.pdb
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\LeituraDadosSerial\LeituraDadosSerial\obj\Debug\LeituraDadosSerial.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\LeituraDadosSerial\LeituraDadosSerial\obj\Debug\LeituraDadosSerial.exe
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\LeituraDadosSerial\LeituraDadosSerial\obj\Debug\LeituraDadosSerial.pdb

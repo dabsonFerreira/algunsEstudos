@@ -1,0 +1,69 @@
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.exe
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.pdb
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.exe
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.pdb
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Emulador.resources
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.exe
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.pdb
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.exe
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.pdb
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Emulador.resources
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.FormConfigConex.resources
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.exe
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.pdb
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.exe
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.pdb
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Emulador.resources
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.FormConfigConex.resources
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\EmuladorSensores\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.exe
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.pdb
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.exe
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.pdb
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Emulador.resources
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.FormConfigConex.resources
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Guilherme\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csproj.GenerateResource.Cache
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.exe
+D:\Armazenamento nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Sistemas Distribuidos\Aula Serial\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.pdb
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 15_16\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.exe
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 15_16\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.pdb
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 15_16\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csprojAssemblyReference.cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 15_16\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Emulador.resources
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 15_16\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.FormConfigConex.resources
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 15_16\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 15_16\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csproj.GenerateResource.cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 15_16\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csproj.CoreCompileInputs.cache
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 15_16\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.exe
+D:\Armazenamento Nuvem\Google Drive\Conteúdo Docente\Informática industrial\Aulas\Aulas Novas\Aula 15_16\Emulador_e_Leitor\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.pdb
+C:\Users\ferreira.santos\Downloads\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.exe
+C:\Users\ferreira.santos\Downloads\EmuladorSensorVazao\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.pdb
+C:\Users\ferreira.santos\Downloads\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csprojResolveAssemblyReference.cache
+C:\Users\ferreira.santos\Downloads\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Emulador.resources
+C:\Users\ferreira.santos\Downloads\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.FormConfigConex.resources
+C:\Users\ferreira.santos\Downloads\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ferreira.santos\Downloads\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csproj.GenerateResource.Cache
+C:\Users\ferreira.santos\Downloads\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csproj.CoreCompileInputs.cache
+C:\Users\ferreira.santos\Downloads\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.exe
+C:\Users\ferreira.santos\Downloads\EmuladorSensorVazao\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.pdb
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.exe
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\EmuladorSensorVazao\bin\Debug\EmuladorSensorVazao.pdb
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Emulador.resources
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.FormConfigConex.resources
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\EmuladorSensorVazao\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csproj.GenerateResource.cache
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.exe
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\EmuladorSensorVazao\obj\x86\Debug\EmuladorSensorVazao.pdb

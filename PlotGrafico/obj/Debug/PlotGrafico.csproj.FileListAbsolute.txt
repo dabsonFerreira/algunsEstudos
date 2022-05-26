@@ -1,0 +1,9 @@
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\PlotGrafico\bin\Debug\PlotGrafico.exe.config
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\PlotGrafico\bin\Debug\PlotGrafico.exe
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\PlotGrafico\bin\Debug\PlotGrafico.pdb
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\PlotGrafico\obj\Debug\PlotGrafico.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\PlotGrafico\obj\Debug\PlotGrafico.Form1.resources
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\PlotGrafico\obj\Debug\PlotGrafico.Properties.Resources.resources
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\PlotGrafico\obj\Debug\PlotGrafico.csproj.GenerateResource.cache
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\PlotGrafico\obj\Debug\PlotGrafico.exe
+C:\Users\ferre\Desktop\Engenharia Elétrica\Informatica Industrial\PlotGrafico\obj\Debug\PlotGrafico.pdb
